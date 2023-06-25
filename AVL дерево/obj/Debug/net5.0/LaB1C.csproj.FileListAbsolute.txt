@@ -1,0 +1,16 @@
+C:\Users\Ksenia\source\repos\LaB1C\bin\Debug\net5.0\LaB1C.exe
+C:\Users\Ksenia\source\repos\LaB1C\bin\Debug\net5.0\LaB1C.deps.json
+C:\Users\Ksenia\source\repos\LaB1C\bin\Debug\net5.0\LaB1C.runtimeconfig.json
+C:\Users\Ksenia\source\repos\LaB1C\bin\Debug\net5.0\LaB1C.runtimeconfig.dev.json
+C:\Users\Ksenia\source\repos\LaB1C\bin\Debug\net5.0\LaB1C.dll
+C:\Users\Ksenia\source\repos\LaB1C\bin\Debug\net5.0\ref\LaB1C.dll
+C:\Users\Ksenia\source\repos\LaB1C\bin\Debug\net5.0\LaB1C.pdb
+C:\Users\Ksenia\source\repos\LaB1C\obj\Debug\net5.0\LaB1C.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ksenia\source\repos\LaB1C\obj\Debug\net5.0\LaB1C.AssemblyInfoInputs.cache
+C:\Users\Ksenia\source\repos\LaB1C\obj\Debug\net5.0\LaB1C.AssemblyInfo.cs
+C:\Users\Ksenia\source\repos\LaB1C\obj\Debug\net5.0\LaB1C.csproj.CoreCompileInputs.cache
+C:\Users\Ksenia\source\repos\LaB1C\obj\Debug\net5.0\LaB1C.dll
+C:\Users\Ksenia\source\repos\LaB1C\obj\Debug\net5.0\ref\LaB1C.dll
+C:\Users\Ksenia\source\repos\LaB1C\obj\Debug\net5.0\LaB1C.pdb
+C:\Users\Ksenia\source\repos\LaB1C\obj\Debug\net5.0\LaB1C.genruntimeconfig.cache
+C:\Users\Ksenia\source\repos\LaB1C\obj\Debug\net5.0\LaB1C.csproj.AssemblyReference.cache

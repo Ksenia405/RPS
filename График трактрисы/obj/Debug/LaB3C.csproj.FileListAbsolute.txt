@@ -1,0 +1,10 @@
+C:\Users\Ksenia\source\repos\LaB3C\bin\Debug\LaB3C.exe.config
+C:\Users\Ksenia\source\repos\LaB3C\bin\Debug\LaB3C.exe
+C:\Users\Ksenia\source\repos\LaB3C\bin\Debug\LaB3C.pdb
+C:\Users\Ksenia\source\repos\LaB3C\obj\Debug\LaB3C.Form1.resources
+C:\Users\Ksenia\source\repos\LaB3C\obj\Debug\LaB3C.Properties.Resources.resources
+C:\Users\Ksenia\source\repos\LaB3C\obj\Debug\LaB3C.csproj.GenerateResource.cache
+C:\Users\Ksenia\source\repos\LaB3C\obj\Debug\LaB3C.csproj.CoreCompileInputs.cache
+C:\Users\Ksenia\source\repos\LaB3C\obj\Debug\LaB3C.exe
+C:\Users\Ksenia\source\repos\LaB3C\obj\Debug\LaB3C.pdb
+C:\Users\Ksenia\source\repos\LaB3C\obj\Debug\LaB3C.csproj.AssemblyReference.cache

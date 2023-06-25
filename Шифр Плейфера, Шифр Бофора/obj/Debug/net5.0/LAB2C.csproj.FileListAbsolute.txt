@@ -1,0 +1,32 @@
+C:\Users\Ksenia\source\repos\LAB2C\bin\Debug\net5.0\LAB2C.exe
+C:\Users\Ksenia\source\repos\LAB2C\bin\Debug\net5.0\LAB2C.deps.json
+C:\Users\Ksenia\source\repos\LAB2C\bin\Debug\net5.0\LAB2C.runtimeconfig.json
+C:\Users\Ksenia\source\repos\LAB2C\bin\Debug\net5.0\LAB2C.runtimeconfig.dev.json
+C:\Users\Ksenia\source\repos\LAB2C\bin\Debug\net5.0\LAB2C.dll
+C:\Users\Ksenia\source\repos\LAB2C\bin\Debug\net5.0\ref\LAB2C.dll
+C:\Users\Ksenia\source\repos\LAB2C\bin\Debug\net5.0\LAB2C.pdb
+C:\Users\Ksenia\source\repos\LAB2C\obj\Debug\net5.0\LAB2C.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ksenia\source\repos\LAB2C\obj\Debug\net5.0\LAB2C.AssemblyInfoInputs.cache
+C:\Users\Ksenia\source\repos\LAB2C\obj\Debug\net5.0\LAB2C.AssemblyInfo.cs
+C:\Users\Ksenia\source\repos\LAB2C\obj\Debug\net5.0\LAB2C.csproj.CoreCompileInputs.cache
+C:\Users\Ksenia\source\repos\LAB2C\obj\Debug\net5.0\LAB2C.dll
+C:\Users\Ksenia\source\repos\LAB2C\obj\Debug\net5.0\ref\LAB2C.dll
+C:\Users\Ksenia\source\repos\LAB2C\obj\Debug\net5.0\LAB2C.pdb
+C:\Users\Ksenia\source\repos\LAB2C\obj\Debug\net5.0\LAB2C.genruntimeconfig.cache
+C:\Users\Ksenia\source\repos\LAB2C\obj\Debug\net5.0\LAB2C.csproj.AssemblyReference.cache
+C:\Users\Ksenia\OneDrive\Рабочий стол\Портфолио\РПС\Шифр Плейфера, Шифр Бофора\bin\Debug\net5.0\LAB2C.exe
+C:\Users\Ksenia\OneDrive\Рабочий стол\Портфолио\РПС\Шифр Плейфера, Шифр Бофора\bin\Debug\net5.0\LAB2C.deps.json
+C:\Users\Ksenia\OneDrive\Рабочий стол\Портфолио\РПС\Шифр Плейфера, Шифр Бофора\bin\Debug\net5.0\LAB2C.runtimeconfig.json
+C:\Users\Ksenia\OneDrive\Рабочий стол\Портфолио\РПС\Шифр Плейфера, Шифр Бофора\bin\Debug\net5.0\LAB2C.runtimeconfig.dev.json
+C:\Users\Ksenia\OneDrive\Рабочий стол\Портфолио\РПС\Шифр Плейфера, Шифр Бофора\bin\Debug\net5.0\LAB2C.dll
+C:\Users\Ksenia\OneDrive\Рабочий стол\Портфолио\РПС\Шифр Плейфера, Шифр Бофора\bin\Debug\net5.0\ref\LAB2C.dll
+C:\Users\Ksenia\OneDrive\Рабочий стол\Портфолио\РПС\Шифр Плейфера, Шифр Бофора\bin\Debug\net5.0\LAB2C.pdb
+C:\Users\Ksenia\OneDrive\Рабочий стол\Портфолио\РПС\Шифр Плейфера, Шифр Бофора\obj\Debug\net5.0\LAB2C.csproj.AssemblyReference.cache
+C:\Users\Ksenia\OneDrive\Рабочий стол\Портфолио\РПС\Шифр Плейфера, Шифр Бофора\obj\Debug\net5.0\LAB2C.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ksenia\OneDrive\Рабочий стол\Портфолио\РПС\Шифр Плейфера, Шифр Бофора\obj\Debug\net5.0\LAB2C.AssemblyInfoInputs.cache
+C:\Users\Ksenia\OneDrive\Рабочий стол\Портфолио\РПС\Шифр Плейфера, Шифр Бофора\obj\Debug\net5.0\LAB2C.AssemblyInfo.cs
+C:\Users\Ksenia\OneDrive\Рабочий стол\Портфолио\РПС\Шифр Плейфера, Шифр Бофора\obj\Debug\net5.0\LAB2C.csproj.CoreCompileInputs.cache
+C:\Users\Ksenia\OneDrive\Рабочий стол\Портфолио\РПС\Шифр Плейфера, Шифр Бофора\obj\Debug\net5.0\LAB2C.dll
+C:\Users\Ksenia\OneDrive\Рабочий стол\Портфолио\РПС\Шифр Плейфера, Шифр Бофора\obj\Debug\net5.0\ref\LAB2C.dll
+C:\Users\Ksenia\OneDrive\Рабочий стол\Портфолио\РПС\Шифр Плейфера, Шифр Бофора\obj\Debug\net5.0\LAB2C.pdb
+C:\Users\Ksenia\OneDrive\Рабочий стол\Портфолио\РПС\Шифр Плейфера, Шифр Бофора\obj\Debug\net5.0\LAB2C.genruntimeconfig.cache
